@@ -36,7 +36,7 @@ As an example, [here are the sources](https://github.com/stephane-hulot/thanksgi
 ## Compilation
 ```sh
 sudo apt install -y libsdl2-dev git
-git clone https://github.com/ssloy/tinyraycaster.git
+git clone https://github.com/GlebSoftware/tinyraycaster.git
 cd tinyraycaster
 mkdir build
 cd build
